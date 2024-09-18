@@ -31,10 +31,6 @@ I create chopped and screwed music, which I think of as a "glitched" version of 
 - **OS**: Windows, Linux
 - **Tech Interests**: Home server setups, security, automation, game development
 
-## 📫 How to Reach Me
-- **Email**: jwaits@anydesk.com
-- **Social Media**: [Reddit](https://www.reddit.com/user/kibbleninja) | [Instagram](#) | [Twitter](#)
-
 ---
 
 ### Let's connect, collaborate, and build something amazing together! 🔥
