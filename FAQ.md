@@ -1,4 +1,12 @@
 Flipper Zero FAQ
+
+Hey there, fellow Flipper enthusiasts! 👋
+
+I've been spending a lot of time in this group, going through almost every post to gather the most burning questions and concerns you all have about the Flipper Zero. It's been quite a journey, and I've learned so much from everyone's experiences and insights.
+
+A special shoutout to Joshua for his awesome video guides – they've been a lifesaver for many of us! 🙌 I've made sure to include them in a dedicated section below for easy access.
+
+With all this valuable information, I've put together this handy FAQ to help answer those frequently asked questions and hopefully make your Flipper Zero journey even smoother.
 Frequently Asked Questions (FAQ)
 
 This FAQ addresses common questions and concerns about the Flipper Zero, providing concise answers and helpful resources.
@@ -35,7 +43,6 @@ If your Flipper Zero is unresponsive, try the following:
 
 * **Charge the battery:** Connect the Flipper Zero to a power source using the provided USB-C cable and ensure it's charging.
 * **Check the battery level:** If the battery icon shows a dash instead of the battery level, try fully discharging and then recharging the battery.
-* **Perform a soft reset:** Hold the back and left Directional Pad button for about 4 seconds or until the screen turns off.
 * **Perform a hard reset:** Hold the back button and plug in the USB-C cable while continuing to hold the back button for a few seconds.
 If the issue persists, consider reaching out to the Flipper Zero support team or community forums for further assistance.
 
